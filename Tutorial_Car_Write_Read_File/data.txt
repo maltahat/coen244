@@ -1,0 +1,5 @@
+2 Gas 9000
+4 Electric 5000
+2 Gas 100000
+4 Gas 5200
+4 Electric 55000
